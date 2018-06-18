@@ -1,0 +1,33 @@
+問題1 オブジェクトの例を挙げてください。物理的なものと概念的なものをそれぞれ3つ挙げてください。
+
+問題2 UMLは何の略でしょう?
+① Universal Modeling Language
+② Ultra Modeling Language
+③ United Modeling Language
+④ Unified Modeling Language
+
+問題3 UMLを提唱した3アミーゴを選んでください。
+① アラン・ケイ
+② グラディ・ブーチ
+③ ケント・ベック
+④ イヴァー・ヤコブソン
+⑤ ジェームズ・ランボー
+
+【問題1.回答】
+物理的なもの
+・駅
+・お客
+・改札
+
+概念的なもの
+・旅行
+・経路
+・予定
+
+【問題2.回答】
+④ Unified Modeling Language
+
+【問題3.回答】
+② グラディ・ブーチ
+④ イヴァー・ヤコブソン
+⑤ ジェームズ・ランボー
